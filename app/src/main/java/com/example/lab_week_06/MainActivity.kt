@@ -38,7 +38,14 @@ class MainActivity : AppCompatActivity() {
             listOf(
                 CatModel(Gender.Male,    CatBreed.BalineseJavanese, "Fred",           "Silent and deadly",         "https://cdn2.thecatapi.com/images/7dj.jpg"),
                 CatModel(Gender.Female,  CatBreed.ExoticShorthair,  "Wilma",          "Cuddly assassin",           "https://cdn2.thecatapi.com/images/egv.jpg"),
-                CatModel(Gender.Unknown, CatBreed.AmericanCurl,     "Curious George", "Award winning investigator", "https://cdn2.thecatapi.com/images/bar.jpg")
+                CatModel(Gender.Unknown, CatBreed.AmericanCurl,     "Curious George", "Award winning investigator", "https://cdn2.thecatapi.com/images/bar.jpg"),
+                CatModel(Gender.Female,  CatBreed.BalineseJavanese, "Luna",           "Loves sunbeams",            "https://cdn2.thecatapi.com/images/7dj.jpg"),
+                CatModel(Gender.Male,    CatBreed.ExoticShorthair,  "Milo",           "Professional sleeper",      "https://cdn2.thecatapi.com/images/egv.jpg"),
+                CatModel(Gender.Female,  CatBreed.AmericanCurl,     "Bella",          "Purr machine",              "https://cdn2.thecatapi.com/images/bar.jpg"),
+                CatModel(Gender.Male,    CatBreed.BalineseJavanese, "Oliver",         "Toy hunter",                "https://cdn2.thecatapi.com/images/7dj.jpg"),
+                CatModel(Gender.Female,  CatBreed.ExoticShorthair,  "Chloe",          "Window watcher",            "https://cdn2.thecatapi.com/images/egv.jpg"),
+                CatModel(Gender.Male,    CatBreed.AmericanCurl,     "Simba",          "Brave and curious",         "https://cdn2.thecatapi.com/images/bar.jpg"),
+                CatModel(Gender.Female,  CatBreed.BalineseJavanese, "Nala",           "Food critic",               "https://cdn2.thecatapi.com/images/7dj.jpg")
             )
         )
     }
